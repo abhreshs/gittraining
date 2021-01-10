@@ -2,7 +2,4 @@ Git and GitHub Training
 
 
 By Abhresh
-19th Nov 2020
-
-new
-more
+10th Jan 2021
